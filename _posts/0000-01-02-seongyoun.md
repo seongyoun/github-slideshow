@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Add more people to the project
+meme
 Get to work, you lazy-ass
